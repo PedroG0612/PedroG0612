@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Garcia and I'm a high school senior student at SESI from Brazil.<br>I have knowledge in JavaScript, HTML, CSS, and MySQL, and I'm passionate about User Interface (UI) and User Experience (UX) design.<br>I enjoy building creative web projects, improving usability, and continuously learning new technologies.</h2>
+<h2 align="left">Hi 👋! My name is Pedro Garcia and I'm a high school senior student at SESI and SENAI from Brazil.<br>I have knowledge in JavaScript, HTML, CSS, and MySQL, and I'm passionate about User Interface (UI) and User Experience (UX) design.<br>I enjoy building creative web projects, improving usability, and continuously learning new technologies.</h2>
 
 ###
 
